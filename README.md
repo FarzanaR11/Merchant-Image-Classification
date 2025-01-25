@@ -1,2 +1,3 @@
 # Merchant-Image-Classification
-Merchant Image Classification
+
+Technologies: Python, TensorFlow/Keras, OpenCV.
